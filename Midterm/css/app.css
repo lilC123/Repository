@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #000000;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; 
+}
+
+.headStyle {
+    background-color: #0032a0; 
+}
+
+.h1 {
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    margin: 0px;
+    background-color: #0032a0; 
+}
+
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.subheader {
+    font-size: larger;
+    color: #0032a0;
+}
