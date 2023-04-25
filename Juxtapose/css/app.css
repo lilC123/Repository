@@ -1,0 +1,15 @@
+.h1 {
+    font-family: 'Maven Pro', sans-serif;
+    text-align: center;
+    background-color: #ba0d2f;
+    color: #0b2340;
+}
+
+.byline {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.copy {
+    font-family: 'Maven Pro', sans-serif;
+    text-indent: 10%;
+}
